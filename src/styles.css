@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inc,
+.dec {
+  padding: 15px;
+  background: #ccc;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.disp {
+  padding: 15px;
+  display: inline-block;
+}
+
+.container {
+  border: 1px solid #ccc;
+  display: inline-block;
+}
